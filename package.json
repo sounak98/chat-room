@@ -1,0 +1,9 @@
+{
+	"name": "chat-app-extended",
+	"version": "0.0.1",
+	"private": "true",
+	"dependencies": {
+		"socket.io": "2.0.1",
+		"express": "4.15.2"
+	}
+}
